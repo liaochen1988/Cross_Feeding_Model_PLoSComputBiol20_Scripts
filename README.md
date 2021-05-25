@@ -1,6 +1,6 @@
 # A coarse-grained ecology model for microbial communities
 
-Our paper has been published on PLoS Computational Biology (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008135).
+Our paper has been published in PLoS Computational Biology (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008135).
 
 The project aims to advance mathematical modeling of microbial communities towards applications to realistic data. Most of the existing models either lack mechanistic details or too complex to understand. We propose that an intermediate-scale model may be a better solution to infer the underlying microbial processes that drive temporal changes in microbial community state (e.g., population density, nutrient concentration, ...). We developed such a coarse-grained ecology model by combining population dynamics models and a simplifed metabolite network for each cell type (or ecotype) in the community. This repository includes our MATLAB codes for three cross-feeding examples that demonstrate the utility of our new framework in filling knowledge gaps in microbial ecology. The three cross-feeding ecosystems include
 
